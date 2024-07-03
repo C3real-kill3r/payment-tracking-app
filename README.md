@@ -52,8 +52,8 @@ Protest Aid Kenya is a web application designed to assist individuals injured or
 
 - **Backend**:
     - The backend is assumed to be a RESTful API (not included in this repository). Example endpoints:
-        - \`GET /api/requests\`
-        - \`PUT /api/requests/:id\`
+        - `GET /api/requests`
+        - `PUT /api/requests/:id`
 
 - **Tools**:
     - Axios for HTTP requests
@@ -62,20 +62,20 @@ Protest Aid Kenya is a web application designed to assist individuals injured or
 ## Installation
 
 1. Clone the repository:
-    \`\`\`bash
+    ```bash
     git clone https://github.com/yourusername/protest-aid-kenya.git
     cd protest-aid-kenya
-    \`\`\`
+    ```
 
 2. Install dependencies:
-    \`\`\`bash
+    ```bash
     npm install
-    \`\`\`
+    ```
 
 3. Start the development server:
-    \`\`\`bash
+    ```bash
     npm start
-    \`\`\`
+    ```
 
 ## Usage
 
@@ -160,10 +160,10 @@ protest-aid-kenya/
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (\`git checkout -b feature-branch\`).
+2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes.
-4. Commit your changes (\`git commit -m 'Add new feature'\`).
-5. Push to the branch (\`git push origin feature-branch\`).
+4. Commit your changes (`git commit -m 'Add new feature'`).
+5. Push to the branch (`git push origin feature-branch`).
 6. Create a Pull Request.
 
 ## License
