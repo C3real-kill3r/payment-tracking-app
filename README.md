@@ -3,6 +3,12 @@
 
 Protest Aid Kenya is a web application designed to assist individuals injured or killed during peaceful protests in Kenya. The system allows public users to submit requests for aid and provides administrators with tools to manage and verify these requests. 
 
+<img width="1440" alt="Screenshot 2024-07-02 at 17 56 55" src="https://github.com/C3real-kill3r/payment-tracking-app/assets/38909130/b56981a1-2a74-4c41-9760-f504f0288eb1">
+<img width="1440" alt="Screenshot 2024-07-02 at 17 57 22" src="https://github.com/C3real-kill3r/payment-tracking-app/assets/38909130/e655fbc8-6697-4178-9a5a-802ccb1294e4">
+<img width="1440" alt="Screenshot 2024-07-02 at 17 57 38" src="https://github.com/C3real-kill3r/payment-tracking-app/assets/38909130/ababa4ad-e6eb-4a6c-8dff-c06ae8450df5">
+<img width="1440" alt="Screenshot 2024-07-02 at 17 58 06" src="https://github.com/C3real-kill3r/payment-tracking-app/assets/38909130/05396553-c9d2-46c7-92ba-972e178d68fa">
+
+
 ## Table of Contents
 
 - [Protest Aid Kenya](#protest-aid-kenya)
